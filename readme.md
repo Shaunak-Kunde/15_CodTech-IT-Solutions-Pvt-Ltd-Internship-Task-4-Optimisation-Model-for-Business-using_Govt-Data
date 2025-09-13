@@ -97,6 +97,8 @@ The optimization model is scalable and adaptable to other sub-categories or indu
 Real-world Government of India IIP data ensures authenticity and applicability.
 
 Visualizations clearly show pre- and post-optimization trends for Index and Growth Rate.
+<img width="911" height="480" alt="image" src="https://github.com/user-attachments/assets/7a42a8b0-549e-480f-9d54-c91fa51be1e1" />
+
 
 # ⚠️ Notes
 
@@ -105,5 +107,6 @@ Only bottom 5 sub-categories were optimized; the model can be extended to more i
 Ensure iip_2.xlsx is present to run the notebook and reproduce results.
 
 Improvement factor in the optimization function can be adjusted to explore different impact levels.
+
 
 # 👨‍💻 Developed by: Shaunak Damodar Sinai Kunde
