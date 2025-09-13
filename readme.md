@@ -1,11 +1,11 @@
 # CODTECH Internship – Task 4: Optimising Index of Industrial Production and Growth Rate for Bottom-Performing Industries in India
 
-Company:- CodTech IT Solutions Pvt. Ltd., Hyderabad
-Name:- Shaunak Damodar Sinai Kunde
-Intern ID:- CT04DY1729
-Domain:- Data Science
-Duration:- 4 weeks
-Mentor:- Muzammil Ahmed
+# Company:- CodTech IT Solutions Pvt. Ltd., Hyderabad
+# Name:- Shaunak Damodar Sinai Kunde
+# Intern ID:- CT04DY1729
+# Domain:- Data Science
+# Duration:- 4 weeks
+# Mentor:- Muzammil Ahmed
 
 This project is part of my CODTECH IT Solutions Pvt. Ltd. Virtual Internship under Data Science.
 
@@ -117,4 +117,5 @@ Improvement factor in the optimization function can be adjusted to explore diffe
 
 
 # 👨‍💻 Developed by: Shaunak Damodar Sinai Kunde
+
 
