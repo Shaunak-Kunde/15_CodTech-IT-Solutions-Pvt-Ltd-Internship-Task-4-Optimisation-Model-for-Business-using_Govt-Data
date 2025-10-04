@@ -7,7 +7,7 @@
 ### Duration:- 4 weeks
 ### Mentor:- Muzammil Ahmed
 
-This project is part of my CODTECH IT Solutions Pvt. Ltd. Virtual Internship under Data Science.
+This project is part of my Virtual Internship with CODTECH IT Solutions Pvt. Ltd. Hyderabad,  under Data Science domain.
 
 The objective is to analyse real-world business problem, identify bottom-performing industries, and apply an optimization model to improve their Index of Industrial Production (IIP) and Growth Rate.
 
@@ -117,6 +117,7 @@ Improvement factor in the optimization function can be adjusted to explore diffe
 
 
 # 👨‍💻 Developed by: Shaunak Damodar Sinai Kunde
+
 
 
 
